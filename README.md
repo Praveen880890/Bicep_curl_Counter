@@ -26,7 +26,7 @@ This project is a real-time bicep curl counter using computer vision and a sciki
 1.  Clone the repository:
 
     ```bash
-    git clone [https://github.com/Praveen880890/Bicep_curl_Counter.git](https://github.com/Praveen880890/Bicep_curl_Counter.git)
+    git clone https://github.com/Praveen880890/Bicep_curl_Counter.git
     cd Bicep_curl_Counter
     ```
 
